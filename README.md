@@ -10,7 +10,7 @@ AAAI19 - Lattice CNNs for Matching Based Chinese Question Answering
 
 Any questions : erutan@pku.edu.cn
 
-
+https://arxiv.org/abs/1902.09087 
 
 
 
