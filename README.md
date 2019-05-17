@@ -6,7 +6,7 @@ AAAI19 - Lattice CNNs for Matching Based Chinese Question Answering
 * Training and predicting: sh run.sh
 * Download and run pretrained models: sh test.sh
 
-
+( Raw datasets can be found in [KBQA](https://github.com/msra-nlc/ChineseKBQA) & [DBQA](https://github.com/msra-nlc/ChineseDBQA). )
 
 Any questions : erutan@pku.edu.cn
 
