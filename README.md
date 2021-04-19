@@ -5,7 +5,8 @@ AAAI19 - Lattice CNNs for Matching Based Chinese Question Answering
 * Download datafiles from https://drive.google.com/file/d/1xQB3ZfjwFDcpwJ7f9nmUTE9lmQMCBFIP/view
 * Move and preprocess datasets, according to the content of data_prepare.sh
 * Training and predicting: sh run.sh
-* Download and run pretrained models: sh test.sh
+* Download model files from https://drive.google.com/file/d/11FKU9qm8mM1lbR0Sav9AqhhXo1kq45nm/view
+* Run pretrained models: sh test.sh
 
 ( Raw datasets can be found in [KBQA](https://github.com/msra-nlc/ChineseKBQA) & [DBQA](https://github.com/msra-nlc/ChineseDBQA). )
 
