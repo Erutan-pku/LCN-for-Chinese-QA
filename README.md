@@ -18,6 +18,6 @@ https://arxiv.org/abs/1902.09087
 
 Thank you for your stars~ : )
 
-P.S. Our recent work [Lattice-BERT]{https://arxiv.org/abs/2104.07204} is accepted at NAACL-2021.
+P.S. Our recent work {Lattice-BERT}[https://arxiv.org/abs/2104.07204] is accepted at NAACL-2021.
 
 Github link: https://github.com/alibaba/AliceMind/tree/main/LatticeBERT
